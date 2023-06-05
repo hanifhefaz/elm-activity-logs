@@ -1,6 +1,6 @@
 {
   "type": "package",
-  "name": "hanif-hefaz/elm-activity-logs",
+  "name": "hanifhefaz/elm-activity-logs",
   "summary": "A package for managing activity logs in Elm.",
   "license": "MIT",
   "version": "1.0.0",
