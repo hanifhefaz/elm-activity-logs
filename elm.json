@@ -1,0 +1,13 @@
+{
+  "type": "package",
+  "name": "hanif-hefaz/elm-activity-logs",
+  "summary": "A package for managing activity logs in Elm.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "exposed-modules": ["ActivityLogs"],
+  "dependencies": {
+    "elm/core": "1.0.0 <= v < 2.0.0"
+  },
+  "elm-version": "0.19.1 <= v < 0.20.0",
+  "test-dependencies": {}
+}
